@@ -347,6 +347,7 @@ Radar Proxy is designed for modern Android devices while retaining compatibility
 ⚡ مدیریت بومی پروکسی تلگرام برای اندروید
 
 کشف • جمع‌آوری • تست • اتصال
+
 ---
 # 🇮🇷 فارسی
 
