@@ -342,12 +342,10 @@ Radar Proxy is designed for modern Android devices while retaining compatibility
 * [Google Play Protect Developer Guidance](https://developers.google.com/android/play-protect/warning-dev-guidance)
 
 ---
-🇮🇷 Radar Proxy
+# 🚀 پراکسی رادار
 
-⚡ مدیریت بومی پروکسی تلگرام برای اندروید
-
-کشف • جمع‌آوری • تست • اتصال
-
+⚡️ مدیر پروکسی تلگرام اندروید بومی
+> کشف • جمع آوری • تست • اتصال
 ---
 # 🇮🇷 فارسی
 
