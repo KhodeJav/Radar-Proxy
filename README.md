@@ -4,7 +4,7 @@
 > Discover • Collect • Test • Connect
 
 ---
-📘[EN](#-En-english) | FA📕
+📘[EN](#-En-english) | [FA](-فارسی)📕
 ---
 
 ## EN English
